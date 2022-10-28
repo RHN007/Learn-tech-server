@@ -1,0 +1,52 @@
+[
+    {
+      "_id": "635b47c0b2259199c91cfe18",
+      "category_id": "01",
+      "title": "HTML",
+      "image_url": "https://cdn-icons-png.flaticon.com/512/888/888859.png", 
+      "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    
+    {
+      "_id": "635b47c031ded7867386cd27",
+      "category_id": "02",
+      "title": "CSS",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+      "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+      "_id": "635b47c0cd0f704102000bcd",
+      "category_id": "03",
+      "title": "JavaScript",
+      "image_url": "https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png",
+      "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+      "_id": "635b47c07498c20c974e6ad3",
+      "category_id": "04",
+      "title": "React",
+      "image_url": "https://reactjs.org/logo-og.png",
+      "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+      "_id": "635b47c0e4068bda8b4ca55f",
+      "category_id": "05",
+      "title": "EXPRESS JS",
+      "image_url": "https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png",
+      "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+      "_id": "635b47c0dae59d46d4c4798f",
+      "category_id": "06",
+      "title": "Bootstrap",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
+      "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+      "_id": "635b47c003bddb03bad0fbb5",
+      "category_id": "07",
+      "title": "UI & UX Design",
+      "image_url": "https://webandcrafts.com/blog/wp-content/uploads/2019/12/ux_ui-01-3.jpg",
+      "rating": { "number": 4.5, "badge": "Excellent" }
+    }
+  ]
