@@ -15,7 +15,6 @@ const courses = require('./data/courses.json')
 
 app.get('/categories', (req, res)=> {
     res.send(categories)
-    console.log(categories)
 })
 
 app.get('/category/:id', (req, res)=> {
@@ -35,7 +34,7 @@ app.get('/courses', (req, res)=> {
 })
 
 app.get('/courses/:id', (req, res)=> {
-  console.log(req.params.id)
+
   const id = req.params.id
   const selected_course = courses.find(n => n._id === id)
   res.send(selected_course)
