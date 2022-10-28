@@ -43,6 +43,6 @@ app.get('/courses/:id', (req, res)=> {
 
 
 app.listen(port, () => {
-    console.log(`Example app listen on port ${port}`)
+    console.log(`Your Server is running at Port ${port}`)
   })
   
